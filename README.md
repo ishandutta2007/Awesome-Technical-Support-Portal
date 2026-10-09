@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <img src="https://img.shields.io/github/last-commit/ishandutta2007/Awesome-Unified-Customer-Service-Workspace?style=flat-square&color=22c55e" alt="Last Commit" />
-  <img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Unified-Customer-Service-Workspace?style=flat-square&color=eab308" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Unified-Customer-Service-Workspace?style=flat-square&color=eab308" alt="GitHub_Stars" />
   <img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Unified-Customer-Service-Workspace?style=flat-square&color=3b82f6" alt="Open Issues" />
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -67,7 +67,7 @@ The following table summarizes top commercial support portals and customer servi
 
 ## ⭐ Open-Source GitHub Projects
 
-Curated list of open-source technical support portals and helpdesk systems, **sorted by GitHub Star Count in descending order**. Each repo includes a direct link to its stargazers page:
+Curated list of open-source technical support portals and helpdesk systems, **sorted by GitHub Stars_Count in descending order**. Each repo includes a direct link to its stargazers page:
 
 ### 🏆 Top Open-Source Helpdesk & Customer Portals
 
@@ -141,7 +141,7 @@ Contributions are warmly welcome! To add or update a technical support portal:
 
 1. **Fork** this repository.
 2. Edit `README.md` keeping formatting consistent.
-3. For open-source repos, include star counts, license info, and direct link to stargazers.
+3. For open-source repos, include Stars_Counts, license info, and direct link to stargazers.
 4. Submit a **Pull Request** with a brief summary of additions.
 
 ---

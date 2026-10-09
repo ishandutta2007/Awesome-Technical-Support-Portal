@@ -31,6 +31,8 @@
 - [⭐ Open-Source GitHub Projects](#-open-source-github-projects)
 - [🛠️ Architecture & Deployment Considerations](#️-architecture--deployment-considerations)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [📈 Star History](#-star-history)
+- [💖 Support & Sponsorship](#-support--sponsorship)
 - [🛡️ Disclaimer & Licensing Notes](#️-disclaimer--licensing-notes)
 - [🏷️ Awesome-Technical-Support-Portal](#️-awesome-technical-support-portal)
 
@@ -141,6 +143,23 @@ Contributions are warmly welcome! To add or update a technical support portal:
 2. Edit `README.md` keeping formatting consistent.
 3. For open-source repos, include star counts, license info, and direct link to stargazers.
 4. Submit a **Pull Request** with a brief summary of additions.
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Unified-Customer-Service-Workspace&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Unified-Customer-Service-Workspace&type=date&legend=top-left)
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you for visiting and supporting **Awesome Technical Support Portal**! If this repository has helped you evaluate, build, or deploy technical support portals and helpdesk infrastructure:
+
+- ⭐️ **Star** this repository on GitHub to help others discover it.
+- 🔀 **Fork** and contribute new tools or update existing features.
+- 📢 **Share** this resource with fellow engineers, support ops leads, and community members.
+- ☕ **Sponsor / Buy me a coffee**: Support ongoing open-source curation and development via [GitHub Sponsors](https://github.com/sponsors/ishandutta2007).
 
 ---
 
